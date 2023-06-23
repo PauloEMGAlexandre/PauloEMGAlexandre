@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Saudações! Sou o Paulo, também conhecido como Padu.
 
 Estudo Ciência da Computação na UniSul, e atualmente faço estágio na Compass.
